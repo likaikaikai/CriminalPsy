@@ -1,2 +1,2 @@
 # CriminalPsy
-applying machine learning in criminal psychology
+applying machine learning to criminal psychology
