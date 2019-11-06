@@ -1,2 +1,4 @@
 # CriminalPsy
-applying machine learning to criminal psychology
+
+This is used to record my project applying machine learning to criminal psychology.
+Being a beginner, I will first learn some basic knowledge of machine learning and coding...
